@@ -9,8 +9,8 @@
 }
 
 .subhead {
-    background-color: white;
-    font-style: italic;
+        font-style: italic;
+        font-weight: bold;
 }
 
 .ingredients {
