@@ -1,0 +1,26 @@
+* {
+    background-color: #e9b672;
+}
+
+.title {
+    background-color: white;
+    padding: 8px;
+    display: block;
+}
+
+.subhead {
+    background-color: white;
+    font-style: italic;
+}
+
+.ingredients {
+    background-color: grey;
+    text-align: center;
+}
+
+.recipe-main-image{
+    float: right;
+    width: 300px;
+    height: auto;
+    margin-left: 8px;
+}
